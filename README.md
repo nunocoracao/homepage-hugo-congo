@@ -1,5 +1,25 @@
 # homepage-hugo-congo
 
+Install Docker
+
+Install VS Code
+
+Install VS Code Remote - Containers
+
+Install git
+
+Git Clone
+
+VS Code open folder File > Open Folder
+
+press + in remote extension
+
+Open Current Folder in Container
+
+wait for image to build
+
+press + to open a new terminal
+
 hugo new site . --force
 
 git submodule add -b stable https://github.com/jpanther/congo.git themes/congo
