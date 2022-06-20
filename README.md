@@ -4,4 +4,9 @@ Base setup of [Docker](https://www.docker.com), [Hugo](https://gohugo.io), and [
 
 This repo supports both dev environments and devcontainers feel free to use whatever suits your needs best.
 
+After cloning this repo you might be requried to run the commands below in order to update Hugo and Congo.
+```
+git submodule init
+git submodule update
+```
 You can find the complete step-by-step guide [here](https://nunocoracao.com/posts/202206-homepage-guide/)
